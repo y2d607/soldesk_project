@@ -26,13 +26,13 @@
 ## **최종화면**
 
 ![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/ab8bfdeb-e9ef-460c-9e44-58abeb5bb18e)
-![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/942dcb3a-746a-4470-81f2-248c37f58773)
-![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/a39f6ca6-ace9-4326-8d6b-e391b23dd462)
-![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/483825c8-2b9d-4004-be98-eb045d129839) 
-![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/c9e136d2-b4c5-40bd-96cc-0906cb9c8fb3)
-![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/d4c296e7-3c34-47cd-87e4-a0baf720be10)
-![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/b1d2e6ae-a90a-48df-843c-ab56cddac930)
-![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/3bf7d2e9-68c6-43cc-a389-5a2a6cec4a16)
+<br>![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/942dcb3a-746a-4470-81f2-248c37f58773)<br>
+<br>![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/a39f6ca6-ace9-4326-8d6b-e391b23dd462)<br>
+<br>![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/483825c8-2b9d-4004-be98-eb045d129839) <br>
+<br>![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/c9e136d2-b4c5-40bd-96cc-0906cb9c8fb3)<br>
+<br>![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/d4c296e7-3c34-47cd-87e4-a0baf720be10)<br>
+<br>![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/b1d2e6ae-a90a-48df-843c-ab56cddac930)<br>
+<br>![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/3bf7d2e9-68c6-43cc-a389-5a2a6cec4a16)<br>
 
 
 
