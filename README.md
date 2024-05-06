@@ -13,6 +13,10 @@
 - 일류찾기 페이지 
 - 헤더 검색 기능
 
+### **적용기술**
+![image](https://github.com/kimhagyung/soldesk_project/assets/88253931/6c19d196-82a9-445c-8427-9570f3b05687)
+
+
 ### **개발 환경 및 구현 기술** 
 
 <img width="220" alt="image" src="https://github.com/kimhagyung/soldesk_project/assets/88253931/12402372-89e2-49eb-a066-f7df834fc20f">
